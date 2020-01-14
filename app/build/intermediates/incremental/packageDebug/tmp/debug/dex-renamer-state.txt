@@ -1,0 +1,13 @@
+#Tue Jan 14 07:10:50 IST 2020
+path.3=classes3.dex
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/home/aryan/OneStop_1.5.1-master/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+base.2=/home/aryan/OneStop_1.5.1-master/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+base.1=/home/aryan/OneStop_1.5.1-master/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+base.0=/home/aryan/OneStop_1.5.1-master/app/build/intermediates/dex/debug/mergeExtDexDebug/out
